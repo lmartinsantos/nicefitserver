@@ -1,7 +1,7 @@
 estimator:
     ☐ Estimator for user entities should decide between estimate and factual data
     ☐ Geometric estimator should also check for factual body positions
-    
+
 generator:
     ☐ Create genserver
     ☐ Implement generator from assigns
@@ -16,13 +16,6 @@ product-ingest:
 
 user-ingest:
     ☐ Endpoint for user ingest
-
-frontend:
-    ☐ Liveview skeleton
-    ☐ Product search
-    ☐ Product page
-    ☐ User search
-    ☐ User page
     
 tools:
     ☐ Simple Variant Ordering
