@@ -1,0 +1,2 @@
+defmodule Nicefitserver do
+end

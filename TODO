@@ -1,0 +1,28 @@
+estimator:
+    ☐ Estimator for user entities should decide between estimate and factual data
+    ☐ Geometric estimator should also check for factual body positions
+    
+generator:
+    ☐ Create genserver
+    ☐ Implement generator from assigns
+
+recommender:
+    ☐ Recommender for factual assignations
+    ☐ "Best" recommender, decides between EBEP, EBFP, FPEP and FBFP modes for recommendation
+
+product-ingest:
+    ☐ Endpoint for product ingestion
+    ☐ Endpoint for product updates
+
+user-ingest:
+    ☐ Endpoint for user ingest
+
+frontend:
+    ☐ Liveview skeleton
+    ☐ Product search
+    ☐ Product page
+    ☐ User search
+    ☐ User page
+    
+tools:
+    ☐ Simple Variant Ordering
