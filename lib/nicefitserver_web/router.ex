@@ -19,7 +19,6 @@ defmodule NicefitserverWeb.Router do
   scope "/" do
     pipe_through :browser
     get "/", NicefitserverWeb.PageController, :index
-    get "/status", NicefitserverWeb.StatusController, :index
     get "/swaggerui", OpenApiSpex.Plug.SwaggerUI,
       path: "/api/openapi",
       default_model_expand_depth: 3,
